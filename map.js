@@ -35,3 +35,5 @@ assertArraysEqual(map(words, word => word[0]), ['g','c','t','m','t']);
 assertArraysEqual(map(phone, word => word[0]), ['2','3','4','6']);
 assertArraysEqual(map(location, word => word[0]), ['T','O','V','H']);
 
+module.exports = map;
+
