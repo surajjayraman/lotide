@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@suraj_nair/lotide",
   "version": "1.0.0",
   "description": "A mini clone of the [Lodash](https://github.com/lodash/lodash) library.",
   "main": "assertArraysEqual.js",
